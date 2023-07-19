@@ -31,3 +31,8 @@ main hr{
     max-width: 80vw;
     margin: auto;
 }
+
+.secondSection h1{
+    text-decoration: bold;
+    font-size: 1.9rem;
+}
