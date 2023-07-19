@@ -1,4 +1,4 @@
-main hr{
+main hr {
     border: 0;
     background: #9c97f1;
     height: 3px;
@@ -27,12 +27,36 @@ main hr{
 #element {
     color: rgb(238, 130, 224);
 }
-.secondSection{
+
+.secondSection {
     max-width: 80vw;
     margin: auto;
+    height: 80vh;
 }
 
-.secondSection h1{
+.secondSection h1 {
     text-decoration: bold;
     font-size: 1.9rem;
+}
+
+.secondSection .box {
+    background: white;
+    width: 80vw;
+    height: 2px;
+    margin: 56px 0;
+    display: flex;
+}
+
+.secondSection .vertical{
+    height: 93px;
+    width: 1px;
+    background-color: white;
+    margin: 0 169px;
+}
+
+.image-top{
+    width: 23px;
+    position: relative;
+    top: -32px;
+    left: -9px
 }

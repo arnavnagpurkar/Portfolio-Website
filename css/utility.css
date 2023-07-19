@@ -5,3 +5,16 @@
 .text-grey {
     color: grey;
 }
+
+.vertical-title{
+    position: relative;
+    top: 75px;
+    width: 150px;
+    font-size: 17px;
+}
+
+.vertical-desc{
+    position: relative;
+    top: 86px;
+    font-size: 14px;
+}
